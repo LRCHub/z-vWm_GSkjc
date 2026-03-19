@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "向こう髪",
+  "base_artist": "君島大空",
+  "createdAt": "2026-03-19T00:46:37.438687Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "向こう髪",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_向こう髪_君島大空.txt"
+    }
+  ]
+}
